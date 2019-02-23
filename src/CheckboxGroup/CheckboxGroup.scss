@@ -1,0 +1,14 @@
+.checkbox-wrapper {
+    .checkbox-head {
+      display: flex;
+      flex-direction: column;
+      margin-right: 32px;
+    }
+    .checkbox-children {
+        display: flex;
+        flex-direction: column;
+    }
+    .MuiFormGroup-root-1{
+      flex-direction: row;
+    }
+}
